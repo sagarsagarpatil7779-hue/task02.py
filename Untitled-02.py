@@ -24,7 +24,7 @@ elif c == "%":
 else :
     print("invalid input")
 
-#user eligible for vote?
+#user eligible for vote!
 a = float(input("entre your age"))
 if a >= 18:
     print("You are eligible for vote ")
@@ -33,4 +33,5 @@ elif a <18:
 elif a<0:
     print("please entre positive numbers ")
 else :
+
     print("invalid")
